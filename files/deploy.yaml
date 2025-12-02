@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: petcam
-        image: kumari3123/petcam:1
+        image: kumari3123/petcam:4
         ports:
         - containerPort: 8443
